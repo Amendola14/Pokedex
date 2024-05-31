@@ -1,0 +1,13 @@
+.fondo {
+    background-image: url('/img/fondo.jpg');
+  }
+  
+  .card-hover {
+    transition: all 0.25s ease;
+  }
+  
+  .card-hover:hover {
+    transform: translateY(-8px) scale(1.01);
+  }
+  
+ 
